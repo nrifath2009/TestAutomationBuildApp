@@ -15,7 +15,7 @@ namespace TestAutomationBuildApp.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Md. Nahidur Rahman";
 
             return View();
         }
